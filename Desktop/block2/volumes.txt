@@ -1,2 +1,0 @@
-At 2023-02-28 01:07:09.291103 the width is  20.0, the aspect of ratio  is 30.0  the diameter of the wheel is 33.0 and the volume of the tire is 22619467.105846517
-At 2023-02-28 01:07:24.123637 the width is  44.0, the aspect of ratio  is 44.0  the diameter of the wheel is 44.0 and the volume of the tire is 518099597.7761688
